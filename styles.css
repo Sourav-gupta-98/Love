@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+}
+
+body {
+
+  text-align: center;
+  /* background-image: url("bg2.jpg"); */
+  background-color: #9fb8ad;
+ background-size: 100% 100%;
+  background-repeat: no-repeat;
+padding-top: 20px;
+
+}
+.main {
+  background-color: #9fb8ad;
+}
+h1, h3 {
+
+  color: #ffb4b4;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+.top:hover {
+  color: #fbaccc;
+}
+.bot:hover {
+  color: #fbaccc;
+}
+
+h6 {
+  color: #fbaccc;
+}
